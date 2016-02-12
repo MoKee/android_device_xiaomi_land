@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := $(LOCAL_PATH)
+DEVICE_PATH := device/xiaomi/land
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
@@ -22,7 +22,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-mk
 
 # Include device-specific product fragments
-include $(LOCAL_PATH)/product/*.mk
+include $(DEVICE_PATH)/product/*.mk
 
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/xiaomi/land/land-vendor.mk)
