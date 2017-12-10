@@ -19,7 +19,7 @@ DEVICE_PATH := $(LOCAL_PATH)
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-mk
 
 # Include device-specific product fragments
 include $(LOCAL_PATH)/product/*.mk
