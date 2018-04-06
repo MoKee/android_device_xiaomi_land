@@ -25,7 +25,7 @@ BOARD_QTI_CAMERA_32BIT_ONLY := true
 USE_DEVICE_SPECIFIC_CAMERA := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_land_defconfig
+TARGET_KERNEL_CONFIG := mokee_land_defconfig
 
 # Libinit
 TARGET_LIBINIT_MSM8937_DEFINES_FILE := $(DEVICE_PATH)/libinit/init_land.cpp
