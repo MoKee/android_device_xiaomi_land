@@ -26,7 +26,7 @@ USE_DEVICE_SPECIFIC_CAMERA := true
 TARGET_TS_MAKEUP := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_land_defconfig
+TARGET_KERNEL_CONFIG := mokee_land_defconfig
 
 # Libinit
 TARGET_LIBINIT_MSM8937_DEFINES_FILE := $(DEVICE_PATH)/libinit/init_land.cpp
