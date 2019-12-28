@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1577557652 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_device_xiaomi_land\nnonce 1577557652-EE633FC3B877496B80AA56DAAE51F223AFA41BE9\n\n0000000000000000000000000000000000000000 b5a2290db774836e1d81451b74732257019ef5b2 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl4HnpQACgkQ8iL05i7N\nJTF6kQf/cN5x1LZmLsPDJ1leB20h9bSqAFovrqdXePxQAWRcDacOZeJeuYrRfDHQ\npRSb+va+tzcemDuFlVA6GAvnwiOmwLRY5WWr0Jb64jbC0ePQVVd5iShYPaiGho54\neahdJgH3WOurMOBvwsfaPwlst0nVLc21DjYO5K7FONnUkJpxme+rpJaL+JS3CyhA\nzrIduTq0wWO2g3dAlwcnNm3VuDWc456+X4H8zJm87IXvp6pz/qd64rUJjKj/VlVP\nTp4JhzmZ+wX+qKE8fi60APRoYwmz1UnsfiAF5pWQbWak4Uk68d6dGHaj6Nvc/5Q5\ncTPKpqtImrE5kAnxtzfQSTGWEotlfw\u003d\u003d\n\u003djrQa\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
